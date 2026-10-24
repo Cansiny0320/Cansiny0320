@@ -1,6 +1,6 @@
 # 你好，我是 **Cansiny** 👋
 
-全栈练习生 · Agent 练习生
+全栈 | Agent | AI
 
 在做一些桌面工具、AI 应用和日常自动化项目，想把常见的小需求做成方便使用的工具。
 
@@ -16,7 +16,7 @@
 
 # Hi, I'm **Cansiny** 👋
 
-Learning full-stack development and building AI agents.
+Full-stack | Agent | AI
 
 I build desktop tools, AI applications, and everyday automation projects, turning small, everyday needs into tools that are easy to use.
 
