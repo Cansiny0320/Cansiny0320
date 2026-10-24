@@ -11,3 +11,19 @@
 - [Bilibili Video Summary Agent](https://github.com/Cansiny0320/bilibili-video-summary-agent)：读取 B 站视频字幕或转录音频，生成带时间戳的摘要和关键要点。
 
 欢迎交流，也欢迎给项目提 Issue。
+
+---
+
+# Hi, I'm Jiaxin Wang 👋
+
+Learning full-stack development and building AI agents.
+
+I build desktop tools, AI applications, and everyday automation projects, turning small, everyday needs into tools that are easy to use.
+
+## What I'm working on
+
+- [Nexlet](https://github.com/Cansiny0320/Nexlet): An open-source desktop toolbox that brings together app launching, clipboard management, calculations, JSON tools, and file search. I also maintain its [plugin ecosystem](https://github.com/Cansiny0320/Nexlet-plugins).
+- [Token Speed Tester / Studio](https://github.com/Cansiny0320/token-speed-tester): A tool for measuring LLM and Codex response times and token throughput, with support for analyzing local Codex usage logs.
+- [Bilibili Video Summary Agent](https://github.com/Cansiny0320/bilibili-video-summary-agent): An agent that reads Bilibili video subtitles or transcribes audio to generate timestamped summaries and key takeaways.
+
+Feel free to reach out or open an issue on any of my projects.
