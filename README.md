@@ -1,4 +1,4 @@
-# 你好，我是王嘉欣 👋
+# 你好，我是 **Cansiny** 👋
 
 全栈练习生 · Agent 练习生
 
@@ -14,7 +14,7 @@
 
 ---
 
-# Hi, I'm Jiaxin Wang 👋
+# Hi, I'm **Cansiny** 👋
 
 Learning full-stack development and building AI agents.
 
